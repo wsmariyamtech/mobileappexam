@@ -1,2 +1,2 @@
 # mobileappexam
-files realting to application
+files realting to mobileapplication
